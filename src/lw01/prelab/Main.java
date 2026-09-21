@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
+        
         List<PrintJob> jobs = new ArrayList<>();
 
         Scanner scanner = new Scanner(Main.class.getResourceAsStream("jobs.txt"));
